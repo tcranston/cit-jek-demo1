@@ -1,0 +1,24 @@
+- title: "Home"
+  href: "/"
+
+- title: "Portfolio"
+  subcategories:
+    - subtitle: "Project1"
+      subhref: "/project1/"
+    - subtitle: "Project2"
+      subhref: "/project2/"
+    - subtitle: "Project3"
+      subhref: "/project3/"
+    - subtitle: "Project4"
+      subhref: "/project4/"
+
+
+- title: "About Us"
+  href: "/about-us/"
+
+- title: "Posts"
+  href: "/support/"
+
+
+- title: "Typography"
+  href: "/typography/"
